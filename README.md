@@ -1,7 +1,9 @@
-<img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="300">
+<div id="header" align="center">
+ <img src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="300"><br>
+ 🌐 find me on: <a href="https://www.linkedin.com/in/natashapetrus/">linkedin</a> · <a href="http://medium.natashapetrus.com/">medium</a> · <a href="https://natashapetrus.com/">website</a>
+</div>
 
- 🌐 find me on: [linkedin](https://www.linkedin.com/in/natashapetrus/) · [medium](http://medium.natashapetrus.com/) · [website](https://natashapetrus.com/)
-
+ 
 <!--
 **natashapetrus/natashapetrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
