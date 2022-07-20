@@ -1,4 +1,4 @@
-🌐 find me on: [linkedin](https://www.linkedin.com/in/natashapetrus/) · [website](https://natashapetrus.com/) · [medium](http://medium.natashapetrus.com/)
+🌐 find me on: [linkedin](https://www.linkedin.com/in/natashapetrus/) · [medium](http://medium.natashapetrus.com/) · [website](https://natashapetrus.com/)
 
 <!--
 **natashapetrus/natashapetrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
