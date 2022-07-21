@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <img src="https://media1.giphy.com/media/WHYuIu9WgaoZv73ksq/giphy.gif" width="300"><br>
- 💛find me on: <a href="https://www.linkedin.com/in/natashapetrus/">linkedin</a> · <a href="http://medium.natashapetrus.com/">medium</a> · <a href="https://natashapetrus.com/">website</a>💛
+ 💛find me on: <a href="https://www.linkedin.com/in/natashapetrus/">linkedin</a> · <a href="https://medium.com/@natashapetrus">medium</a> · <a href="https://natashapetrus.com/">website</a>💛
 </div>
 
  
